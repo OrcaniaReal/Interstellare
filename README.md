@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Interstellar Proxy</h1>
+    <h1>Interstellar Education</h1>
     </div>
 One of the most popular web proxies, used by over 5.7 million people in 2023.
 
@@ -47,7 +47,7 @@ As of January 1st 2024, Replit is [no longer free](https://blog.replit.com/hosti
 2. Click "Code" (green button) and then "Create Codespace on main."
 3. In the terminal at the bottom, paste `npm i && npm run start`.
 4. Respond to the application popup by clicking "Make public."
-   > Make sure you actually click the "Make public." button, or the proxy won't function properly.
+   > Make sure you actually click the "Make public." button, or the Education won't function properly.
 5. Access the deployed website from the ports tab.
 6. For subsequent uses in the same codespace, just run `npm run start`
 

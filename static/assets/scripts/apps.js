@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', () => {
       link: 'https://open.spotify.com',
       image: '/assets/media/icons/spotify.webp',
       categories: ['all', 'media'],
-      say: 'Spotify is currently not working on the proxy.',
+      say: 'Spotify is currently not working on the Education.',
       error: true,
     },
     {
